@@ -6,7 +6,7 @@ Created by Vinicius Bastos Gomes and Eduardo Mello.
 ## Installing it 
 
 It's super easy to put everything here to work.
-After cloning the repo, all you need to do is to run, the following commands in your shell (inside) the project's folder.
+After cloning the repo, all you need to do is to run the following commands in your shell (inside) the project's folder.
 You can paste them one by one or run them at once.
 
 ```
