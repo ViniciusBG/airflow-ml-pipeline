@@ -130,3 +130,6 @@ dmypy.json
 
 # Macs garbage
 .DS_Store
+
+# We also don't want logs
+logs/*
