@@ -1,6 +1,6 @@
 # airflow-ml-pipeline
 
-This repo aims to create an experimental usage of Airflow for maitaining Machine Learning pipelines.
+This repo aims to apply an experimental use of Airflow to maintain machine learning pipelines.
 Created by Vinicius Bastos Gomes and Eduardo Mello.
 
 ## Installing it 
