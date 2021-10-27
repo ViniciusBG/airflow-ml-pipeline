@@ -254,6 +254,17 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+  
+  mlflow:
+    build: ./mlflow
+    container_name: mlflow_server
+    networks:
+      - backend
+    restart: always
+    ports:
+      - 5000:5000
+    volumes:
+      - ml_data:/data/mlflow:rw
 
 volumes:
   postgres-db-volume:
