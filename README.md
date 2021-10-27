@@ -1,3 +1,5 @@
+*This is a WIP project at it's initial phase*
+
 # airflow-ml-pipeline
 
 This repo aims to apply an experimental use of Airflow to maintain machine learning pipelines.
